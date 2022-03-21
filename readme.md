@@ -68,5 +68,5 @@ System.out.println("Hello wrold!");
 
 <!-- imagen local  -->
 
-![imagen mia](148296896_2855988751284090_1374652522455927305_n.jpg "Foto kevin")
+
 
